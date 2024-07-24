@@ -1,2 +1,4 @@
 # ApnaCollegeTutorial-Demo
-this is my new repository
+This is my new repository
+<br/>
+Author - SatyaPrakash
